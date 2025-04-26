@@ -1,1 +1,0 @@
-# Naval-vessel-Condition-Based-Monitoring-
